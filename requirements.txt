@@ -1,0 +1,8 @@
+Django~=3.1
+pyfiglet~=0.8.post1
+icmplib~=1.2.1
+celery==5.0.5
+psycopg2-binary==2.8.6
+djangorestframework==3.12.2
+requests==2.25.1
+django-cors-headers==3.7.0
